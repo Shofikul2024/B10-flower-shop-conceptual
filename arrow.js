@@ -11,9 +11,9 @@
 
 
 
-// const subtract= ( num1 ,num2) => num1 -num2
-// const result = ( 20,10)
-// console.log(result)
+const subtract= ( num1 ,num2) => num1 -num2
+const result = subtract ( 20,10)
+console.log(result)
 
 
 
@@ -22,6 +22,6 @@
 
 
 
-const multiply= ( num1 ,num2) => num1 *num2
-const result = multiply( 20,10)
-console.log(result)
+// const multiply= ( num1 ,num2) => num1 *num2
+// const result = multiply( 20,10)
+// console.log(result)
